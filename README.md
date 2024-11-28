@@ -2,4 +2,4 @@
 
 # practice for OSS
 
-### 13주차 충돌 sample1과 sample2였습니다!
+### week13 conflict sample1
